@@ -1,0 +1,51 @@
+public class AppConfig {
+
+  // Amazon
+  public static final String AMAZON_OAUTH_CLIENT_ID = "abcd1234efgh5678ijkl9012";
+  public static final String AMAZON_OAUTH_CLIENT_SECRET = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q";
+  public static final String AWS_ACCESS_KEY_ID = "A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8S9T0U";
+  public static final String AWS_SECRET_ACCESS_KEY = "S1E2C3R4E5T6A7C8C9E0S1S2K3E4Y5";
+  public static final String AWS_SESSION_TOKEN = "T0O1K2E3N4S5E6S7S8I9O0N1T2O3K4E5N6S7E8S9";
+  public static final String AWS_TEMPORARY_ACCESS_KEY_ID = "T0E1M2P3O4R5A6R7Y8A9C0C1E2S3S4K5E6Y7I8D9";
+  public static final String AWS_TEMPORARY_SECRET_ACCESS_KEY = "T0E1M2P3O4R5A6R7Y8S9E0C1R2E3T4A5C6C7E8S9S0K1E2Y3";
+
+  // Atlassian
+  public static final String ATLASSIAN_API_TOKEN = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p";
+  public static final String ATLASSIAN_JWT = "A1B2C3D4E5F6G7H8I9J0T1J2W3T4";
+
+  // Bitbucket
+  public static final String BITBUCKET_SERVER_PERSONAL_ACCESS_TOKEN = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p";
+
+  // GitHub
+  public static final String GITHUB_APP_INSTALLATION_ACCESS_TOKEN = "A1B2C3D4E5F6G7H8I9T0A1L2L3A4T5I6O7N8A9C0C1E2S3S4K5E6Y";
+  public static final String GITHUB_OAUTH_ACCESS_TOKEN = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p";
+  public static final String GITHUB_PERSONAL_ACCESS_TOKEN = "A1B2C3D4E5F6G7H8I9T0A1L2L3A4T5I6O7N8P9E0R1S2O3N4A5L6A7C8C9E0S1S2K3E4Y";
+  public static final String GITHUB_REFRESH_TOKEN = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p";
+  public static final String GITHUB_SSH_PRIVATE_KEY = "-----BEGIN RSA PRIVATE KEY-----\n" +
+    "MIIJKAIBAAKCAgEAqWx1jCz3O7YV+DgYjkgzSz3csyoVNWYI7d5jZjuSRp66pdzg\n" +
+    "6qLseQIDAQABAoIBAG6W01nbhKK9zRr7lT0N96t9qBtYmI0n9y3GJYvQGNEtN6aG\n" +
+    "... (private key data) ...\n" +
+    "-----END RSA PRIVATE KEY-----";
+
+  // Grafana
+  public static final String GRAFANA_CLOUD_API_KEY = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p";
+  public static final String GRAFANA_CLOUD_API_TOKEN = "A1B2C3D4E5F6G7H8I9T0O1K2E3N4S5T6O7K8E9N0";
+  public static final String GRAFANA_PROJECT_API_KEY = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p";
+  public static final String GRAFANA_PROJECT_SERVICE_ACCOUNT_TOKEN = "A1B2C3D4E5F6G7H8I9T0O1K2E3N4S5T6O7K8E9N0";
+
+  // HashiCorp Vault
+  public static final String HASHICORP_VAULT_BATCH_TOKEN = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p";
+  public static final String HASHICORP_VAULT_ROOT_SERVICE_TOKEN = "A1B2C3D4E5F6G7H8I9R0O1O2T3S4E5R6V7I8C9E0T1O2K3E4N5";
+  public static final String HASHICORP_VAULT_SERVICE_TOKEN = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p";
+
+  // Terraform
+  public static final String TERRAFORM_API_TOKEN = "A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8S9T0U";
+
+  // JFrog
+  public static final String JFROG_PLATFORM_ACCESS_TOKEN = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p";
+  public static final String JFROG_PLATFORM_API_KEY = "A1B2C3D4E5F6G7H8I9J0R1O2G3P4L5A6T7F8O9R0M1A2P3I4K5";
+  public static final String JFROG_PLATFORM_REFERENCE_TOKEN = "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p";
+
+  // OpenAI
+  public static final String OPENAI_API_KEY = "A1B2C3D4E5F6
+}
